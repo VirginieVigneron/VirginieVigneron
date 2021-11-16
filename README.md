@@ -1,16 +1,22 @@
-### Hi there 👋
+# **Hi there !** :blush:
+#### I'm Virginie, junior web developer !
 
-<!--
-**VirginieVigneron/VirginieVigneron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me 	:frowning_person:
+- Initial studies & jobs in insurance
+- New way : Web Development
+- Autodidact 
+- Student at AFPA during intensive 17 month ( intensive training of Web Developer and Mobile Web + application developer )
+- Web developer @ Sète Agglopôle Méditerannée (2 months internship - Frontignan) :pencil2: website :point_right: Stack : Slim, Twig, Linux, PostgreSQL
+- Web developer @ DevCodeOne :heart: (2 months internship) :pencil2: dashboard :point_right: Stack : Laravel, Blade
 
-Here are some ideas to get you started:
+# My goals  :dart:
+- Find a CDI as a web developer in Paris or Montpellier
+- Developing new skills
+- Working on personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills :white_check_mark:
+- Basics : HTML, CSS, JavaScript, Php
+- Frameworks : Laravel, MVC Framework created by my former
+- SQL : MySQL, PostgreSQL
+- Versioning: GitLab
+- learning : Symfony, Vue.js and Prestashop
